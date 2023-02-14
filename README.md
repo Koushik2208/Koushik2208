@@ -16,7 +16,7 @@ Currently, learning React JS as I already know Javascript. Also know decent amou
 
 Languages and Tools: 
 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -137,7 +137,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=Koushik2208&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
 **Koushik2208/Koushik2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
